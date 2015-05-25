@@ -19,7 +19,7 @@
     "require": {
         "php": ">=5.4",
         "zendframework/zendframework": "2.4.*",
-        "JamesHeinrich/getID3": "1.9.*",
+        "jamesheinrich/getid3": "dev-master",
         "diemuzi/mp3": "dev-master"
     }
 }
