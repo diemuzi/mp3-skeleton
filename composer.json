@@ -1,0 +1,24 @@
+{
+    "name": "diemuzi/mp3-skeleton",
+    "description": "MP3 Player Skeleton Application",
+    "license": "MIT",
+    "keywords": [
+        "zf2",
+        "module",
+        "mp3",
+        "skeleton"
+    ],
+    "homepage": "https://github.com/diemuzi/mp3-skeleton",
+    "authors": [
+        {
+            "name": "Sammie S. Taunton",
+            "email": "diemuzi@gmail.com",
+            "homepage": "http://sitegoodies.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "zendframework/zendframework": "2.4.*",
+        "diemuzi/mp3": "dev-master"
+    }
+}
